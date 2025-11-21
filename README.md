@@ -40,7 +40,7 @@ I specialize in **full-stack engineering**, **backend systems**, and **architect
 
 ---
 
-## 🏗️ What I’ve Built (High-Level, No Companies)
+## 🏗️ What I’ve Built
 
 ### 🔹 **Reporting & Analytics Systems**
 - Full reporting dashboards from UI → API → DB  
