@@ -9,7 +9,7 @@ I specialize in **full-stack engineering**, **backend systems**, and **architect
 ---
 
 ## 🧑‍💻 About Me  
-- 🚀 Currently working as an **SDE-3** (promoted multiple times)  
+- 🚀 Currently working as an **SDE-3**
 - 🔧 Experienced in building reporting dashboards, dynamic connectors, analytics engines, and automation tools  
 - 🧱 Strong in **system design**, modular architecture, event-driven systems, and scalable API development  
 - ⚙️ Love solving deep technical problems and designing high-scalability flows  
