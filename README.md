@@ -36,7 +36,6 @@ I specialize in **full-stack engineering**, **backend systems**, and **architect
 ### 🟧 Databases & Infra
 - PostgreSQL, MongoDB  
 - Messaging queues, async jobs, workers  
-- GCP deployment experience  
 - Data modeling for reporting, analytics & transaction systems  
 
 ---
@@ -61,7 +60,6 @@ I specialize in **full-stack engineering**, **backend systems**, and **architect
 - Equity calculations & reporting APIs  
 
 ### 🔹 **Trading & Transaction Systems**
-- Full trading lifecycle (offers, bids, execution logic)  
 - Secure contract/NDA gating flows  
 - Integrated card-payment workflows 
 
